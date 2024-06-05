@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&background=FFFFFF&random=false&width=435&lines=Ol%C3%A1!!+Sou+Gesuito%2C%F0%9F%91%8B%F0%9F%8F%BE+;moro+em+Salvador-Bahia.;Desenvolvedor+Front-end;Seja+bem+vindo(a)!+)](https://git.io/typing-svg)
 
 <br>
-<p align: center>👋🏾 Olá, sou Gesuito! Atualmente estou em desenvolvimento de uma carreira sólida na área da programação, por meio de trabalho e estudo, vindo da atividade de motorista administrativo. A tecnologia é um ambiente que sempre me despertou interesse, trazendo uma sede de aprimoramento constante, crescimento pessoal e profissional a partir do meu ingresso, além da possibilidade de ajudar outras pessoas através do meu aprendizado e experiências do dia a dia.</p>
+<p align: center>👋🏾 Olá, sou Gesuito! Atualmente estou em desenvolvimento de uma carreira sólida na área da programação, por meio de trabalho e estudo, vindo da atividade de motorista administrativo. A tecnologia é um ambiente que sempre me despertou interesse, trazendo uma sede de aprimoramento constante, crescimento pessoal e profissional a partir do meu ingresso, além da possibilidade de ajudar outras pessoas através do meu aprendizado e experiências do dia a dia. </p>
 <br>
 <br>
 
